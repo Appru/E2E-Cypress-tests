@@ -1,0 +1,16 @@
+{
+
+    "loginPro" : "https://supapass.com/login" ,
+    "loginStaging" :"https://staging.supapass.com/login",
+    "logingTest" : "https://test.supapass.com/login"
+,
+
+
+    "test" : ".test",
+    "staging": ".staging"
+
+
+
+
+}
+
